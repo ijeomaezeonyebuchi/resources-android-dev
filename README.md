@@ -47,6 +47,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * **Janice Wildrick** - *Initial work* - MVVM Arechitecture, Room SQLite database
 * **Olga Agafonova** - *Initial work*
 * **Ijeoma Ezeonyebuchi** - *Initial work* - Unit and UI Testing
+* **Divya** - *Initial work*
+* **Somayah Alharbi**
 
 
 See also the list of [contributors](https://github.com/dynamite8/resources-android-dev/graphs/contributors) who participated in this project.
